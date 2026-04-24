@@ -1,0 +1,7 @@
+body{
+    font-family: Arial;
+}
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
